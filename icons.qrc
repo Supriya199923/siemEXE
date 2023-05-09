@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/icons8-steam-circled-50.png</file>
+    <file>icons/cross.png</file>
+    <file>icons/icons8-toggle-full-screen-64.png</file>
+    <file>icons/marker.png</file>
+    <file>icons/menu-burger.png</file>
+    <file>icons/minus.png</file>
+  </qresource>
+</RCC>
