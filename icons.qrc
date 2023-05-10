@@ -1,6 +1,9 @@
 <RCC>
   <qresource prefix="newPrefix">
-    <file>icons/icons8-steam-circled-50.png</file>
+    <file>icons8-dashboard-50.png</file>
+    <file>icons8-index-64.png</file>
+    <file>icons8-system-64.png</file>
+    <file>icons8-web-application-firewall-50.png</file>
     <file>icons/cross.png</file>
     <file>icons/icons8-toggle-full-screen-64.png</file>
     <file>icons/marker.png</file>
